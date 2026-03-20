@@ -1,0 +1,16 @@
+[workspace]
+channels = ["conda-forge"]
+name = "src"
+platforms = ["win-64", "linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.11.*"
+ultralytics = ">=8.4.24,<9"
+pycocotools = ">=2.0.11,<3"
+pytorch = ">=2.10.0,<3"
+torchvision = "*"
+opencv = ">=4.13.0,<5"
+pip = ">=26.0.1,<27"

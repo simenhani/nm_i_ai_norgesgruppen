@@ -1,0 +1,21 @@
+{
+  "settings_version": "0.0.6",
+  "datasets_dir": "C:\\Users\\Simen\\Documents\\Programmering\\NM_i_AI_2026\\Norgesgruppen\\src\\datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "3a8e7e6a4fac51802a14c22e2e69ce15b6785c347a75697239ae261ca328fe40",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "hub": true,
+  "mlflow": true,
+  "neptune": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}
